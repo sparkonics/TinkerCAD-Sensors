@@ -18,7 +18,7 @@ Bonus: Include a manual override feature that allows the door to be opened or cl
 regardless of the time of day.
 **  
   - **[Anany Raghav, 2401EC06]**
-  - ([Tinkercad Link](https://www.tinkercad.com/things/iYO3dTtDCBf-ujwal-candy-shop?sharecode=6AeTYkzfgscu6UrNtH6ZKLv5kKY41-dgoUNu85N3f0o))**
+  - Tinkercad Link(https://www.tinkercad.com/things/iYO3dTtDCBf-ujwal-candy-shop?sharecode=6AeTYkzfgscu6UrNtH6ZKLv5kKY41-dgoUNu85N3f0o)
 
 ### Question 2
 - **Problem Statement 2**
