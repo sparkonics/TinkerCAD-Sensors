@@ -1,9 +1,9 @@
 # Tinkercad & Sensors Session - Sparkonics, IIT Patna
 
-![Session Banner](images/session_banner.png) <!-- Replace with the actual path if different -->
+![Session Banner](Images/Poster.jpg) <!-- Replace with the actual path if different -->
 
 ## Session Link
-[Click here to view the Tinkercad session materials](https://github.com/YourRepoLinkHere)
+[Click here to view the Tinkercad session materials]([TinkerCAD&Sensors.pptx](https://github.com/sparkonics/TinkerCAD-Sensors/tree/main))
 
 ---
 
