@@ -20,9 +20,34 @@ regardless of the time of day.
   - ![pic](Images/Ujwal's_candy_shop_by.png)
   - [Tinkercad Link](https://www.tinkercad.com/things/iYO3dTtDCBf-ujwal-candy-shop?sharecode=6AeTYkzfgscu6UrNtH6ZKLv5kKY41-dgoUNu85N3f0o)
 
-### Question 2
-- **Problem Statement 2**
-  - **[Student Name, Roll Number](Tinkercad Link)**
-  - **[Student Name, Roll Number](Tinkercad Link)**
+### Strongman Game
+- At a fair, just before your turn in the High-Striker (Strongman Game), the game malfunctions.
+Your task is to design a system that simulates the game.
+The system should:
+1. Measure and respond to the force applied.
+2. Display the strength level progressively (not necessarily just on an LCD screen).
+3. Trigger an alert when the maximum force is reached.
+Bonus: Add a visually appealing effect when the maximum force is applied.
+Note: You are not allowed to use 2-pin or 4-pin LEDs.
 
-<!-- Add more sections as needed -->
+ - **Devesh Yadav, 2401EC08**
+ - ![pic](Images/Strongman.png)
+ - [Tinkercad Link](https://www.tinkercad.com/things/4Zyj8a14uh5-neat-snicket-gaaris)
+
+### Weather Monitoring System with Fire Alarm
+- Design a Weather Monitoring System that can:
+1. Measure and display temperature, wind speed, and humidity on an LCD screen.
+2. Activate an alarm system when a fire is detected.
+Make sure the system:
+● Continuously displays the weather readings on the LCD screen.
+● Sounds an alarm when a fire is detected.
+Bonus: Add an extra feature where the system changes the color of an LED or display when
+the temperature crosses a certain threshold (e.g., indicating a heat wave).
+
+ - **Parth Saini, 2401EE07**
+ - ![pic](Images/Weather_monitoring_system.png)
+ - [Tinkercad Link](https://www.tinkercad.com/things/09vKL9oIg2f-weather-monitor)
+
+
+### Open challenge
+-
