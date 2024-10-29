@@ -53,20 +53,20 @@ Note: You are not allowed to use 2-pin or 4-pin LEDs.
 
 - **8 Note Keyboard**
   - by **Priyadeep Jaiswal, 2401EC10**
-    -![pic](Images/Open Challenge/8_note_keyboard.png)
+    -![pic](Images/OpenChallenge/8_note_keyboard.png)
     - [Tinkercad Link](https://www.tinkercad.com/things/64zIrWg4Q4f-8-note-keyboard?sharecode=8OVm2iOPBaqhO0KdhUasVazJxn3lQx6H-ZOv9ADLAx0)
 
 - **OverSpeed Detector**
   - by **Shashank Mishra, 2401EC36**
-    -![pic](Images/Open Challenge/Overspeed_detector.png)
+    -![pic](Images/OpenChallenge/Overspeed_detector.png)
     - [Tinkercad Link](https://www.tinkercad.com/things/0XcVUE9XJiz-swanky-amberis)
 
 - **Math Quiz**
   - by **Anany Raghav, 2401EC06**
-    -![pic](Images/Open Challenge/Math_quiz.png)
+    -![pic](Images/OpenChallenge/Math_quiz.png)
     - [Tinkercad Link](https://www.tinkercad.com/things/iYimA7oILzQ-open-challenge?sharecode=bH2_27DXnUYGulmZuZUmD2sIATqmWiA6gyAEOUKGqFc)
 
 - **Digital Dice**
-- by **PIYUSH PUSKAR, 2401EC28**
-- ![pic](Images/Open Challenge/digital_dice_roller.png)
-- [Tinkercad Link](https://www.tinkercad.com/things/3GjbrLMmoEI-digitaldiceroller?sharecode=YqDFV0juDyn4Qe1uvHQycj6q9HS-K5qXpN-56U28B8M)
+  - by **PIYUSH PUSKAR, 2401EC28**
+    -![pic](Images/OpenChallenge/digital_dice_roller.png)
+    - [Tinkercad Link](https://www.tinkercad.com/things/3GjbrLMmoEI-digitaldiceroller?sharecode=YqDFV0juDyn4Qe1uvHQycj6q9HS-K5qXpN-56U28B8M)
